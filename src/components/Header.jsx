@@ -13,7 +13,7 @@ function Header() {
 
 
   return (
-    <Navbar expand="lg" className="bg-primary fixed-top mb-5">
+    <Navbar expand="lg" className="bg-warning fixed-top mb-5">
       <Container>
         <Navbar.Brand >
             <Link to={"/"} style={{textDecoration:'none'}}> <i class="fa-brands fa-shopify me-2"></i>{' '}
